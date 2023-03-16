@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="advanced-gatling-web-apps-java" />
+        <module name="RF_Load_Testing" />
         <module name="Rapidfunnel Load Testing Scripts " />
         <module name="Load Testing Scripts - Typical User Click Paths" />
       </profile>
